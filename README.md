@@ -1,2 +1,2 @@
 # Feature-Selection
-Feature Selection - Simple Examples with Python/scikit-learn
+Feature Selection - Examples with Python/scikit-learn
